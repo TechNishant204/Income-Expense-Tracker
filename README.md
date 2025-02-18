@@ -22,8 +22,6 @@ The Income Expense Tracker is a robust web application designed to help users ef
 
 
 <br/>
-<h3>ScreenShot</h3>
-![image](https://github.com/user-attachments/assets/7c72d553-7892-4e82-bc81-be9d1649177a)
 
 <h2>Installation</h2>
 Follow these steps to set up the Income Expense Tracker on your local machine:
