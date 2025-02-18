@@ -1,10 +1,13 @@
 <h1>Income Expense Tracker</h1>
 <img src="https://github.com/user-attachments/assets/96e8ea0a-dabb-4b98-80aa-23d2f9d53e77" alt ="website"/>
 
+
+<a href="https://track-income-expenses.netlify.app/"><h3>Click for Live Preview</h3></a>
 <h2>Overview</h2>
 The Income Expense Tracker is a robust web application designed to help users efficiently manage their financial transactions. Whether you're tracking daily expenses or monitoring your income, this tool provides a seamless experience for recording, editing, and analyzing your financial activities. All data is securely stored in the browser's local storage, ensuring your information remains intact even after closing or refreshing the page.
 
 <h2>Key Features</h2>
+
 **Add Transactions**: Easily log income and expense entries with a description and amount.
 
 **Edit Transactions**: Modify existing transactions to correct errors or update details.
@@ -17,8 +20,7 @@ The Income Expense Tracker is a robust web application designed to help users ef
 
 **User-Friendly Interface**: Intuitive design for a smooth and hassle-free experience.
 
-<h3>Live Preview</h3>
-<a href="https://track-income-expenses.netlify.app/">Click to see the preview</a>
+
 <br/>
 <h3>ScreenShot</h3>
 ![image](https://github.com/user-attachments/assets/7c72d553-7892-4e82-bc81-be9d1649177a)
