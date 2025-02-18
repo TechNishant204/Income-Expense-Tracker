@@ -52,26 +52,27 @@ npm start
 
 <h2>How to Use</h2>
 <h3>Adding a Transaction</h3>
-**Enter a description** (e.g., "Groceries" or "Paycheck").
+
+Enter a description(e.g., "Groceries" or "Paycheck").
 
 Input the amount (positive for income, negative for expenses).
 
 Click the "Add" button to save the transaction.
 
-**Editing a Transaction**
+<h3>Editing a Transaction</h3>
 Click the edit icon (✏️) next to the transaction you wish to modify.
 
 Update the description or amount in the input fields.
 
 Save your changes by clicking the "Save" button.
 
-**Deleting a Transaction**
+<h3>Deleting a Transaction</h3>
 
 Click the delete icon (🗑️) next to the transaction you want to remove.
 
 Confirm the deletion if prompted.
 
-<h2>Deleting All Transactions</h2>
+<h3>Deleting All Transactions</h3>
 Click the "Delete All" button to clear all transactions.
 
 Confirm the action if prompted.
@@ -84,6 +85,7 @@ Your data remains accessible even after closing or refreshing the browser.
 No need to worry about losing your financial records.
 
 <h2>Technologies Used1</h2>
+
 **Frontend**: HTML, CSS, JavaScript (React.js recommended for a modern approach).
 
 **State Management**: Local Storage for persistent data storage.
@@ -91,6 +93,7 @@ No need to worry about losing your financial records.
 **Styling**: CSS or libraries like Tailwind CSS for a clean and responsive design.
 
 <h2>Future Enhancements</h2>
+
 **Categorization**: Add categories (e.g., Food, Rent, Entertainment) for better organization.
 
 **Visual Analytics**: Include charts and graphs to visualize income vs. expenses.
