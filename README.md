@@ -1,7 +1,10 @@
-![image](https://github.com/user-attachments/assets/96e8ea0a-dabb-4b98-80aa-23d2f9d53e77)##Overview
+<h1>Income Expense Tracker</h1>
+![image](https://github.com/user-attachments/assets/96e8ea0a-dabb-4b98-80aa-23d2f9d53e77)
+
+<h2>Overview</h2>
 The Income Expense Tracker is a robust web application designed to help users efficiently manage their financial transactions. Whether you're tracking daily expenses or monitoring your income, this tool provides a seamless experience for recording, editing, and analyzing your financial activities. All data is securely stored in the browser's local storage, ensuring your information remains intact even after closing or refreshing the page.
 
-##Key Features
+<h2>Key Features</h2>
 **Add Transactions**: Easily log income and expense entries with a description and amount.
 
 **Edit Transactions**: Modify existing transactions to correct errors or update details.
@@ -14,14 +17,16 @@ The Income Expense Tracker is a robust web application designed to help users ef
 
 **User-Friendly Interface**: Intuitive design for a smooth and hassle-free experience.
 
-**Live Preview**: https://track-income-expenses.netlify.app/
-ScreenShot
+<h3>Live Preview</h3>
+<a href="https://track-income-expenses.netlify.app/">Click to see the preview</a>
+<br/>
+<h3>ScreenShot</h3>
 ![image](https://github.com/user-attachments/assets/7c72d553-7892-4e82-bc81-be9d1649177a)
 
-##Installation
+<h2>Installation</h2>
 Follow these steps to set up the Income Expense Tracker on your local machine:
 
-##Clone the Repository:
+<h3>Clone the Repository:</h3>
 
 <pre>  
 git clone https://github.com/yourusername/income-expense-tracker.git
@@ -42,49 +47,50 @@ Start the Development Server:
 npm start
 </pre>
 
-##Access the Application:
+<h3>Access the Application:</h3>
 <pre>Open your browser and navigate to http://localhost:3000 (or the port specified in your terminal).</pre>
 
-##How to Use
-Adding a Transaction
+<h2>How to Use</h2>
+<h3>Adding a Transaction</h3>
 **Enter a description** (e.g., "Groceries" or "Paycheck").
 
 Input the amount (positive for income, negative for expenses).
 
 Click the "Add" button to save the transaction.
 
-##Editing a Transaction
+**Editing a Transaction**
 Click the edit icon (✏️) next to the transaction you wish to modify.
 
 Update the description or amount in the input fields.
 
 Save your changes by clicking the "Save" button.
 
-Deleting a Transaction
+**Deleting a Transaction**
+
 Click the delete icon (🗑️) next to the transaction you want to remove.
 
 Confirm the deletion if prompted.
 
-##Deleting All Transactions
+<h2>Deleting All Transactions</h2>
 Click the "Delete All" button to clear all transactions.
 
 Confirm the action if prompted.
 
-##Data Persistence with Local Storage
+<h2>Data Persistence with Local Storage</h2>
 The application leverages the browser's local storage to save all transactions. This means:
 
 Your data remains accessible even after closing or refreshing the browser.
 
 No need to worry about losing your financial records.
 
-##Technologies Used
+<h2>Technologies Used1</h2>
 **Frontend**: HTML, CSS, JavaScript (React.js recommended for a modern approach).
 
 **State Management**: Local Storage for persistent data storage.
 
 **Styling**: CSS or libraries like Tailwind CSS for a clean and responsive design.
 
-##Future Enhancements
+<h2>Future Enhancements</h2>
 **Categorization**: Add categories (e.g., Food, Rent, Entertainment) for better organization.
 
 **Visual Analytics**: Include charts and graphs to visualize income vs. expenses.
