@@ -1,5 +1,5 @@
 <h1>Income Expense Tracker</h1>
-![image](https://github.com/user-attachments/assets/96e8ea0a-dabb-4b98-80aa-23d2f9d53e77)
+<img src="https://github.com/user-attachments/assets/96e8ea0a-dabb-4b98-80aa-23d2f9d53e77" alt ="website"/>
 
 <h2>Overview</h2>
 The Income Expense Tracker is a robust web application designed to help users efficiently manage their financial transactions. Whether you're tracking daily expenses or monitoring your income, this tool provides a seamless experience for recording, editing, and analyzing your financial activities. All data is securely stored in the browser's local storage, ensuring your information remains intact even after closing or refreshing the page.
